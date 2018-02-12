@@ -1,2 +1,2 @@
 # Dotfiles
-i3 Window mangager dotfiles
+i3 Window manager dotfiles
